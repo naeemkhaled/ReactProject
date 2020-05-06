@@ -1,0 +1,18 @@
+React Router > تسطيب 
+
+عشان نعمل سويتش ما بين الصفحات او ربط
+
+- / npm i react-router-dom --save
+
+
+
+axios > تسطيب
+
+npm i axios --save
+
+styled-components > 
+تسطيب 
+
+npm i styled-components --save
+
+Hooks > معانها انك تقدر تسخدم الستيت ولايف سيكل والحجات دي بس جوا الفانكشن كومبونت
